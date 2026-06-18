@@ -11,9 +11,9 @@ The Netskope Client steers traffic using an IP-address-based DNS hash table. Whe
 | Document | Audience | Status |
 |---|---|---|
 | [PRD-NPLAN-7844.md](PRD-NPLAN-7844.md) | PM + Eng leads | PM Draft |
-| [SPEC-NPLAN-7844.md](SPEC-NPLAN-7844.md) | Engineering / QA | Pending |
-| [ANNEXES-NPLAN-7844.md](ANNEXES-NPLAN-7844.md) | GTM, UX, Security | Pending |
-| [COMPETITIVE-INTEL-NPLAN-7844.md](COMPETITIVE-INTEL-NPLAN-7844.md) | PM | Pending |
+| [SPEC-NPLAN-7844.md](SPEC-NPLAN-7844.md) | Engineering / QA | PM Draft |
+| [ANNEXES-NPLAN-7844.md](ANNEXES-NPLAN-7844.md) | GTM, UX, Security | PM Draft |
+| [COMPETITIVE-INTEL-NPLAN-7844.md](COMPETITIVE-INTEL-NPLAN-7844.md) | PM | PM Confirmed |
 
 ## Teams
 
