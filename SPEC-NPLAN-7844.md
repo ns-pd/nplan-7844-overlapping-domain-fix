@@ -237,7 +237,7 @@ No new permissions. Overlapping domain auto-detection is a client-side behavior 
 
 | Metric | Source | Priority |
 |--------|--------|----------|
-| `client.snimmode.active_ips` — count of IPs currently marked SNI-mode per client | StAgentSvc | P0 (Beta) |
+| `client.snimode.active_ips` — count of IPs currently marked SNI-mode per client | StAgentSvc | P0 (Beta) |
 | `client.snimode.decisions_total` — count of SNI-based steering decisions (tunnel vs bypass) | StAgentSvc | P0 (Beta) |
 | `client.snimode.failopen_dns` — count of fail-open events (DNS unresolved) | StAgentSvc | P0 (Beta) |
 | `client.snimode.failopen_nosni` — count of fail-open events (no SNI, no process match) | StAgentSvc | P0 (Beta) |
